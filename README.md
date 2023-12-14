@@ -12,10 +12,12 @@ Fecha:
 
 
 
-## Planteamiento
+# El Paper de la Hibridació en les Aplicacions Digitals
 
+En el llibre *El software toma el mando*, Lev Manovich defineix la **hibridació** com "la combinació de diferents mitjans, formats o tecnologies" i argumenta que és una característica clau de la cultura del software, ja que té un impacte profund en la manera en què percebem i consumim els mitjans.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Des del meu punt de vista, la hibridació és una tendència que està transformant la nostra societat, perquè a través d'ella els mitjans digitals estan esdevenint més complexos, dinàmics i accessibles i aquesta combinació està creant noves possibilitats expressives i narratives i fa que siguin més accessibles a un públic més ampli.
+
 
 
 ## Re-descubriendo la hibridacion: Caso 1
