@@ -1,12 +1,8 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
-### Recurso de aprendizaje de Cultura Digital 
+Autor: Jordi Gabarró Armengol
 
-
-Autor: 
-
-
-Fecha: 
+Fecha: 18/12/2023
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
@@ -57,9 +53,11 @@ Com a conclusió, Mimo és un exemple clar de la tendència a la hibridació en 
 WhatsApp i Mimo són dues aplicacions digitals molt diferents, però a la vegada comparteixen una característica comuna: la hibridació. En les dues aplicacions la hibridació es manifesta en la combinació de diferents mitjans, formats i tecnologies per crear una experiència única, en el cas de WhatsApp de comunicació i en el cas de Mimo d’aprenentage de programació.
 
 
-### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+## Referencias y Bibliografía
+
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* http://cultura-digital.aula.uoc.edu/
 
 
 ----
