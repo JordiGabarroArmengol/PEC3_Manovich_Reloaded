@@ -57,7 +57,7 @@ WhatsApp i Mimo són dues aplicacions digitals molt diferents, però a la vegada
 ## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* http://cultura-digital.aula.uoc.edu/
+* Cultura Digital, Universitat Oberta de Catalunya. [consulta: 06/12/2023]. Disponible a:  http://cultura-digital.aula.uoc.edu/
 
 
 ----
