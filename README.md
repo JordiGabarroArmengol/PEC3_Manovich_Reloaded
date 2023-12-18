@@ -4,7 +4,7 @@ Autor: Jordi Gabarró Armengol
 
 Fecha: 18/12/2023
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital](https://i.ibb.co/g4p8Hh3/rodion-kutsaiev-0-VGG7cq-Tw-Co-unsplash.jpg) 
 
 
 
@@ -59,7 +59,6 @@ WhatsApp i Mimo són dues aplicacions digitals molt diferents, però a la vegada
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Cultura Digital, Universitat Oberta de Catalunya. [consulta: 06/12/2023]. Disponible a:  http://cultura-digital.aula.uoc.edu/
 
-
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Unspash](https://unsplash.com/es/fotos/persona-sosteniendo-un-telefono-inteligente-0VGG7cqTwCo) 
