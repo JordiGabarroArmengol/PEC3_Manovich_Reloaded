@@ -61,4 +61,4 @@ WhatsApp i Mimo són dues aplicacions digitals molt diferents, però a la vegada
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Unspash](https://unsplash.com/es/fotos/persona-sosteniendo-un-telefono-inteligente-0VGG7cqTwCo) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Unsplash](https://unsplash.com/) 
